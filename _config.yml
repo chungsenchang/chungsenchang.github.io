@@ -1,10 +1,10 @@
 # Site settings
-title: Chungsen Chang Blog
-SEOTitle: 张众森的博客 | Chungsen Chang Blog
+title: CSC Blog
+SEOTitle: 张众森的博客 | CSC Blog
 header-img: img/post-bg-desk.jpg
 email: chungsenchanghk@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 张众森的博客, chungsen chang, 张众森, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 张众森的博客, chungsen, 张众森, iOS, Apple, iPhone"
 url: "http://chungsenchang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -101,8 +101,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Facebook",
+        href: "https://www.facebook.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
